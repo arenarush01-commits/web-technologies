@@ -26,4 +26,4 @@
 | **Lab 01** | Git та GitHub. Linux, Command Line. Git collaboration | 🔄 Виконується |
 
 ## Автор
-**Кудрик Ілля**
+**Кудрік Ілля**
