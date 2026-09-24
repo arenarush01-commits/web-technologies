@@ -23,7 +23,7 @@
 
 | Лабораторна | Тема | Статус |
 | :--- | :--- | :--- |
-| **Lab 01** | Git та GitHub. Linux, Command Line. Git collaboration | 🔄 Виконується |
+| **Lab 01** | Git та GitHub. Linux, Command Line. Git collaboration | Виконано |
 
 ## Автор
 **Кудрік Ілля**
